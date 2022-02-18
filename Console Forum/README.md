@@ -6,5 +6,5 @@ A simple cmd program resembling a forum
 (usually found in "C:\Program Files\Java")
 
 
-# Start app by running the "run.bat" file.
+# Start the app by running the "run.bat" file.
 ## ALL COMMANDS ARE CASE SENSITIVE(CAMEL CASE WITH UPER STARTING LETTER)! - might fix in future
