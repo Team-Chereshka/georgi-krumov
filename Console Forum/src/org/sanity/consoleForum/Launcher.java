@@ -36,10 +36,7 @@ public class Launcher {
         EntityManager entityManager = new EntityManager();
 
         CommandManager commandManager = new ConsoleForumCommandManager(consoleReader, consoleWriter, entityManager );
-
-
         ConsoleForumEngine consoleForumEngine = new ConsoleForumEngine(commandManager, entityManager);
-
 
        consoleForumEngine.run();
     }
